@@ -1,0 +1,1234 @@
+{
+  "78774666289255@lid": {
+    "woens": 402,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 0,
+    "health": 10,
+    "last_work": 1778640069289,
+    "last_daily": 1769466302693,
+    "properties": []
+  },
+  "78869138792538@lid": {
+    "woens": 25857,
+    "bank": 0,
+    "job": "Doctor",
+    "xp": 825,
+    "health": 100,
+    "last_work": 1778640794564,
+    "last_daily": 1778597069939,
+    "properties": []
+  },
+  "91792158519346@lid": {
+    "woens": 1629,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 15,
+    "health": 100,
+    "last_work": 1778607143263,
+    "last_daily": 1778768515681,
+    "properties": []
+  },
+  "73586127700054@lid": {
+    "woens": 3799,
+    "bank": 0,
+    "job": "Minero",
+    "xp": 160,
+    "health": 70,
+    "stamina": 100,
+    "properties": [],
+    "last_work": 1771208668035,
+    "last_daily": 1771208658196
+  },
+  "109023651172529@lid": {
+    "woens": 6171,
+    "bank": 0,
+    "job": "Minero",
+    "xp": 55,
+    "health": 100,
+    "stamina": 100,
+    "properties": [],
+    "last_work": 1771209110425,
+    "last_daily": 1771209140823
+  },
+  "119503472046146@lid": {
+    "woens": 100,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "155091688534242@lid": {
+    "woens": 2876,
+    "bank": 0,
+    "job": "Policia",
+    "xp": 45,
+    "health": 60,
+    "last_work": 1770306569065,
+    "last_daily": 1770306578503,
+    "properties": []
+  },
+  "58021149446164@lid": {
+    "woens": 63496,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 150,
+    "health": 100,
+    "last_work": 1778596576464,
+    "last_daily": 1778644262948,
+    "properties": []
+  },
+  "69638650093574@lid": {
+    "woens": 4037,
+    "bank": 0,
+    "job": "Leñador",
+    "xp": 175,
+    "health": 100,
+    "last_work": 1769466871732,
+    "last_daily": 1769467121155,
+    "properties": []
+  },
+  "35558671798467@lid": {
+    "woens": 3766,
+    "bank": 0,
+    "job": "Leñador",
+    "xp": 90,
+    "health": 100,
+    "last_work": 1769226404264,
+    "last_daily": 1769226413456,
+    "properties": []
+  },
+  "76072544649266@lid": {
+    "woens": 12151,
+    "bank": 0,
+    "job": "Minero",
+    "xp": 140,
+    "health": 100,
+    "last_work": 1778641390179,
+    "last_daily": 1778644258001,
+    "properties": []
+  },
+  "146419964985566@lid": {
+    "woens": 100,
+    "bank": 0,
+    "job": "Policia",
+    "xp": 120,
+    "health": 70,
+    "last_work": 1769467045241,
+    "last_daily": 1769467061098,
+    "properties": []
+  },
+  "117209858875522@lid": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "137125454471172@lid": {
+    "woens": 2197,
+    "bank": 0,
+    "job": "Leñador",
+    "xp": 50,
+    "health": 10,
+    "last_work": 1769270206016,
+    "last_daily": 0,
+    "properties": []
+  },
+  "122110970208443@lid": {
+    "woens": 0,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 0,
+    "health": 50,
+    "last_work": 1778620240906,
+    "last_daily": 0,
+    "properties": []
+  },
+  "95627446853859@lid": {
+    "woens": 838,
+    "bank": 0,
+    "job": "Pescador",
+    "xp": 30,
+    "health": 80,
+    "last_work": 1769465919720,
+    "last_daily": 1769465967787,
+    "properties": []
+  },
+  "34067764535298@lid": {
+    "woens": 1876,
+    "bank": 0,
+    "job": "Policia",
+    "xp": 195,
+    "health": 100,
+    "last_work": 1778591391184,
+    "last_daily": 0,
+    "properties": []
+  },
+  "225920044499171@lid": {
+    "woens": 100,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "78005699403881@lid": {
+    "woens": 964,
+    "bank": 0,
+    "job": "Leñador",
+    "xp": 30,
+    "health": 100,
+    "last_work": 1769278044556,
+    "last_daily": 0,
+    "properties": []
+  },
+  "241381524156553@lid": {
+    "woens": 774,
+    "bank": 0,
+    "job": "Leñador",
+    "xp": 60,
+    "health": 100,
+    "last_work": 1769268591087,
+    "last_daily": 1769230193943,
+    "properties": []
+  },
+  "209367425147064@lid": {
+    "woens": 2019,
+    "bank": 0,
+    "job": "Minero",
+    "xp": 30,
+    "health": 100,
+    "last_work": 1769199554338,
+    "last_daily": 1769138761637,
+    "properties": []
+  },
+  "6434045595677@lid": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "23193209315399@lid": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "260533001425076@lid": {
+    "woens": 1457,
+    "bank": 0,
+    "job": "Doctor",
+    "xp": 95,
+    "health": 100,
+    "last_work": 1769282324343,
+    "last_daily": 0,
+    "properties": []
+  },
+  "220581081419837@lid": {
+    "woens": 200,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "35558671798467@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "58021149446164@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "241381524156553@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "78774666289255@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 80,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "117209858875522@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "85745062645907@lid": {
+    "woens": 87,
+    "bank": 0,
+    "job": "Minero",
+    "xp": 30,
+    "health": 100,
+    "last_work": 1769275800758,
+    "last_daily": 0,
+    "properties": []
+  },
+  "146419964985566@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 0,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "parchita@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 0,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "33810569797676@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 0,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "77443041890450@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "91792158519346@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "86741209894914@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "34067764535298@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "85745062645907@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "11961500725476@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "78869138792538@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "arrestar@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "137125454471172@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "77443041890450@lid": {
+    "woens": 831,
+    "bank": 0,
+    "job": "Minero",
+    "xp": 15,
+    "health": 100,
+    "last_work": 1769276250978,
+    "last_daily": 0,
+    "properties": []
+  },
+  "185864760082666@lid": {
+    "woens": 2847,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 15,
+    "health": 50,
+    "last_work": 1771209119578,
+    "last_daily": 0,
+    "properties": []
+  },
+  "155091688534242@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 0,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "78005699403881@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "182034236485793@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "95627446853859@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "144586332758100@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "209367425147064@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "carlos@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "104028570673188@lid": {
+    "woens": 2788,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 15,
+    "health": 100,
+    "last_work": 1769281891105,
+    "last_daily": 1769281912402,
+    "properties": []
+  },
+  ".curar@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "⁨Juego@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "⁨Carlos⁩@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "Carlos@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 0,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "23193209315399@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "91496325841047@lid": {
+    "woens": 2833,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 15,
+    "health": 100,
+    "last_work": 1769283456336,
+    "last_daily": 1769283469478,
+    "properties": []
+  },
+  "137740205211783@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "119503472046146@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "91496325841047@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "Willy@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "yiyi@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "240368415146026@lid": {
+    "woens": 200,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "188919069065461@lid": {
+    "woens": 200,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "173650124738635@lid": {
+    "woens": 0,
+    "bank": 0,
+    "job": "Minero",
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "a@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "73586127700054@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "158274510925881@lid": {
+    "woens": 0,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 45,
+    "health": 95,
+    "last_work": 1778641161172,
+    "last_daily": 1778554863857,
+    "properties": []
+  },
+  "277644134346789@lid": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "221891147104286@lid": {
+    "woens": 3321,
+    "bank": 0,
+    "job": "Doctor",
+    "xp": 95,
+    "health": 100,
+    "last_work": 1778620209473,
+    "last_daily": 0,
+    "properties": []
+  },
+  "16149613920456@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "37242064085204@lid": {
+    "woens": 1361,
+    "bank": 0,
+    "job": "Minero",
+    "xp": 60,
+    "health": 100,
+    "last_work": 1778640965488,
+    "last_daily": 1778597210338,
+    "properties": []
+  },
+  "28184296865824@lid": {
+    "woens": 100,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "88442386043096@lid": {
+    "woens": 100,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "230318225227988@lid": {
+    "woens": 100,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "149228655497393@lid": {
+    "woens": 99,
+    "bank": 0,
+    "job": "Policia",
+    "xp": 75,
+    "health": 80,
+    "last_work": 1778641110593,
+    "last_daily": 1778641169912,
+    "properties": []
+  },
+  "83970939203632@lid": {
+    "woens": 7162,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 30,
+    "health": 100,
+    "last_work": 1778643929054,
+    "last_daily": 0,
+    "properties": []
+  },
+  "132628657254549@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "221891147104286@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 80,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "20083938197651@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "69638650093574@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "39424092045404@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "122110970208443@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "204204907991095@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "61465662906593@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "41021635358782@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "16149613920456@lid": {
+    "woens": 100,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "37242064085204@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 50,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "158274510925881@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "Curar@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "169668673327300@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "212717080158258@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "28184296865824@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "88442386043096@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "142529026605268@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "225920044499171@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "189580477264013@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "37972376313956@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "39866104549480@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "109045260251389@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "230318225227988@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "105296005480657@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "152600355807307@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "76072544649266@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "227873969422414@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "36494655926486@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "118717778231447@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "270484658728974@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "184189991297220@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "183910952607785@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "149228655497393@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "240338300055773@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "191758008905914@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 10,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "77876967768144@lid": {
+    "woens": 2078,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 30,
+    "health": 100,
+    "last_work": 1778643900599,
+    "last_daily": 0,
+    "properties": []
+  },
+  "83970939203632@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "36494655926486@lid": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 100,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "61465662906593@lid": {
+    "woens": 1,
+    "bank": 0,
+    "job": "Leñador",
+    "xp": 0,
+    "health": 50,
+    "last_work": 1778618862503,
+    "last_daily": 0,
+    "properties": []
+  },
+  "227873969422414@lid": {
+    "woens": 931,
+    "bank": 0,
+    "job": "Minero",
+    "xp": 15,
+    "health": 100,
+    "last_work": 1778619219217,
+    "last_daily": 0,
+    "properties": []
+  },
+  "77876967768144@s.whatsapp.net": {
+    "woens": 0,
+    "bank": 0,
+    "job": null,
+    "xp": 0,
+    "health": 0,
+    "last_work": 0,
+    "last_daily": 0,
+    "properties": []
+  },
+  "118717778231447@lid": {
+    "woens": 377,
+    "bank": 0,
+    "job": "Leñador",
+    "xp": 15,
+    "health": 100,
+    "last_work": 1778640952351,
+    "last_daily": 0,
+    "properties": []
+  },
+  "188562586750995@lid": {
+    "woens": 1516,
+    "bank": 0,
+    "job": "Periodista",
+    "xp": 15,
+    "health": 100,
+    "last_work": 1778640957329,
+    "last_daily": 1778644267763,
+    "properties": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "users": {
+    "73586127700054@lid": {
+      "total": 1,
+      "records": [
+        {
+          "group": "120363403814454263@g.us",
+          "reason": "@73586127700054 por incumplir reglas",
+          "moderator": "169668673327300@lid",
+          "ts": 1765922445997
+        }
+      ]
+    },
+    "128501126570022@lid": {
+      "total": 1,
+      "records": [
+        {
+          "group": "120363423114559591@g.us",
+          "reason": "por spam",
+          "moderator": "78774666289255@lid",
+          "ts": 1766158054092
+        }
+      ]
+    },
+    "209367425147064@lid": {
+      "total": 1,
+      "records": [
+        {
+          "group": "120363423114559591@g.us",
+          "reason": "Problemático",
+          "moderator": "78774666289255@lid",
+          "ts": 1766179231735
+        }
+      ]
+    },
+    "186062295040106@lid": {
+      "total": 1,
+      "records": [
+        {
+          "group": "120363423114559591@g.us",
+          "reason": "Problemática",
+          "moderator": "78774666289255@lid",
+          "ts": 1766179286817
+        }
+      ]
+    },
+    "169668673327300@lid": {
+      "total": 1,
+      "records": [
+        {
+          "group": "120363403814454263@g.us",
+          "reason": "@169668673327300",
+          "moderator": "133152978767990@lid",
+          "ts": 1766796641075
+        }
+      ]
+    },
+    "133152978767990@lid": {
+      "total": 1,
+      "records": [
+        {
+          "group": "120363422820526837@g.us",
+          "reason": "Incumplir regla del respeto",
+          "moderator": "78774666289255@lid",
+          "ts": 1766797357291
+        }
+      ]
+    },
+    "584227423829@s.whatsapp.net": {
+      "total": 1,
+      "records": [
+        {
+          "group": "120363422820526837@g.us",
+          "reason": "Por bobo",
+          "moderator": "78774666289255@lid",
+          "ts": 1766799731390
+        }
+      ]
+    },
+    "268470369423570@lid": {
+      "total": 1,
+      "records": [
+        {
+          "group": "120363403814454263@g.us",
+          "reason": "contenido explícito",
+          "moderator": "95627446853859@lid",
+          "ts": 1770222151485
+        }
+      ]
+    }
+  }
+}
