@@ -9,28 +9,14 @@ return `
 ╰━━━━━─「✪」─━━━━━
 ✪  𝙇𝙄𝙎𝙏𝘼 𝘿𝙀 𝘾𝙊𝙈𝘼𝙉𝘿𝙊𝙎
   ━━━━━─「✪」─━━━━━
-╭
-   ❍ 𝐌𝐄𝐍𝐔 - admin ❐ (solo admins/owner (bloqueados si el grupo está en modo admin))
+╭                    
+  ❍ 𝐌𝐄𝐍𝐔 - ADMINS ❐      
 ╰  
- ❱➢  〄welcome 1/0
- ❱➢  〄antienlace 1/0  
- ❱➢  〄antispam 1/0     
- ❱➢  〄modoadmin 1/0
- ❱➢  〄todos
- ❱➢  〄anuncio
- ❱➢  〄ban
- ❱➢  〄antiprivado     
- ❱➢  〄listreg 
- ❱➢  〄warn       
- ❱➢  〄warns
- ❱➢  〄comandosban 1/0
- ❱➢  〄bangp 
- ❱➢  〄Boton
- ❱➢  〄Botoff
- ❱➢  〄Reiniciar
- ❱➢  〄Topactivos
- ❱➢  〄Topinactivos
- 
+ ❱➢  〄papagarbot
+ ❱➢  〄pmodoadmin
+ ❱➢  〄pcomandosban
+ ❱➢  〄ptodos
+
 ╭                    
   ❍ 𝐌𝐄𝐍𝐔 - miembros ❐      
 ╰      
@@ -43,10 +29,19 @@ return `
  ❱➢  〄sticker
  ❱➢  〄Emojimix 
  ❱➢  〄toimg
- ❱➢  〄tomp3      
- ❱➢  〄calc 
- ❱➢  〄dayli   
+ ❱➢  〄diario   
  ❱➢  〄casar 
+ ❱➢  〄elegirtrabajo
+ ❱➢  〄trabajar
+ ❱➢  〄transferir
+ ❱➢  〄comer
+ ❱➢  〄casino
+ ❱➢  〄comprar
+ ❱➢  〄robar
+ ❱➢  〄curar
+ ❱➢  〄arrestar
+
+
            
 `}
 module.exports = Menu 

@@ -1,2 +1,0 @@
-# parchita
-Parchita_bot

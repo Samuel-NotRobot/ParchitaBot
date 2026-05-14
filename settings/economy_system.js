@@ -225,7 +225,7 @@ module.exports = {
 
         // Si no pone el tipo o el tipo no existe, muestra el menú
         if (!type || !menu[type.toLowerCase()]) {
-            let menuTxt = "🍴 *Menú de ParchiChef* 🍴\n\n";
+            let menuTxt = "🍴 *Menú de ParcWillChef* 🍴\n\n";
             for (let item in menu) {
                 menuTxt += `*${item.toUpperCase()}*\n`;
                 menuTxt += `  💰 Precio: ${menu[item].costo} Woens\n`;
