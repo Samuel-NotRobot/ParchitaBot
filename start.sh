@@ -16,7 +16,7 @@ PLTREMTCYAN='\033[1;36m'
 WHITE='\033[1;37m'
 while : 
 do
-echo "${RED} EL BOT ESTA EN MODO AUTOMATICO BY LINK"
+echo "${RED} EL BOT ESTA EN MODO AUTOMATICO BY LINK FOR MARI"
 node index.js
 sleep 1
 clear
