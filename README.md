@@ -22,26 +22,3 @@
 
 ---
 
-
-> [!NOTE]
-> Copia los códigos uno por uno, no los pegues todos juntos a la vez.
-
-```bash
-pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install nodejs -y && pkg install wget -y && pkg install tesseract -y
-```
-
-```bash
-termux-setup-storage
-```
-
-```bash
-cd /sdcard && git clone https://github.com/NaufraZapp/Naufrabot-base
-```
-
-```bash
-cd Naufrabot-base
-```
-
-```bash
-node index
-```
