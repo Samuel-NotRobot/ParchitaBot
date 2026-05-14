@@ -10,13 +10,13 @@
     "properties": []
   },
   "78869138792538@lid": {
-    "woens": 25857,
+    "woens": 24396,
     "bank": 0,
     "job": "Doctor",
-    "xp": 825,
+    "xp": 840,
     "health": 100,
-    "last_work": 1778640794564,
-    "last_daily": 1778597069939,
+    "last_work": 1778796871371,
+    "last_daily": 1778796890405,
     "properties": []
   },
   "91792158519346@lid": {
@@ -102,7 +102,7 @@
     "properties": []
   },
   "76072544649266@lid": {
-    "woens": 12151,
+    "woens": 15151,
     "bank": 0,
     "job": "Minero",
     "xp": 140,
@@ -696,9 +696,9 @@
     "bank": 0,
     "job": "Periodista",
     "xp": 45,
-    "health": 95,
-    "last_work": 1778641161172,
-    "last_daily": 1778554863857,
+    "health": 55,
+    "last_work": 1778796902149,
+    "last_daily": 1778796909645,
     "properties": []
   },
   "277644134346789@lid": {
@@ -712,12 +712,12 @@
     "properties": []
   },
   "221891147104286@lid": {
-    "woens": 3321,
+    "woens": 4507,
     "bank": 0,
     "job": "Doctor",
-    "xp": 95,
+    "xp": 110,
     "health": 100,
-    "last_work": 1778620209473,
+    "last_work": 1778797846686,
     "last_daily": 0,
     "properties": []
   },
@@ -732,12 +732,12 @@
     "properties": []
   },
   "37242064085204@lid": {
-    "woens": 1361,
+    "woens": 1976,
     "bank": 0,
     "job": "Minero",
-    "xp": 60,
+    "xp": 75,
     "health": 100,
-    "last_work": 1778640965488,
+    "last_work": 1778795325844,
     "last_daily": 1778597210338,
     "properties": []
   },
@@ -782,13 +782,13 @@
     "properties": []
   },
   "83970939203632@lid": {
-    "woens": 7162,
+    "woens": 7462,
     "bank": 0,
     "job": "Periodista",
     "xp": 30,
-    "health": 100,
-    "last_work": 1778643929054,
-    "last_daily": 0,
+    "health": 50,
+    "last_work": 1778795803655,
+    "last_daily": 1778795767034,
     "properties": []
   },
   "132628657254549@s.whatsapp.net": {
@@ -1192,13 +1192,13 @@
     "properties": []
   },
   "227873969422414@lid": {
-    "woens": 931,
+    "woens": 1837,
     "bank": 0,
     "job": "Minero",
-    "xp": 15,
+    "xp": 30,
     "health": 100,
-    "last_work": 1778619219217,
-    "last_daily": 0,
+    "last_work": 1778797224135,
+    "last_daily": 1778797232590,
     "properties": []
   },
   "77876967768144@s.whatsapp.net": {
@@ -1222,13 +1222,13 @@
     "properties": []
   },
   "188562586750995@lid": {
-    "woens": 1516,
+    "woens": 1816,
     "bank": 0,
     "job": "Periodista",
     "xp": 15,
-    "health": 100,
-    "last_work": 1778640957329,
-    "last_daily": 1778644267763,
+    "health": 60,
+    "last_work": 1778795827992,
+    "last_daily": 1778796885181,
     "properties": []
   }
 }

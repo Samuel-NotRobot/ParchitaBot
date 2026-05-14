@@ -43,7 +43,7 @@ let botApagado = false;
 const comandosParaApagar = [
     'perfil', 'elegirtrabajo', 'diario', 'trabajar', 'transferir', 
     'comer', 'casino', 'comprar', 'robar', 'curar', 'arrestar', 
-    'casar', 'sticker', 'emojimix', 'tomp3', 'toimg', 
+    'casar', 'sticker', 'emojimix', 'tomp3', 'toimg','bomba', 
     'kiss', 'hug', 'poke', 'pat', 'beso', 'abrazo'
 ];
 
@@ -111,6 +111,48 @@ function contentHashOf(info) {
 const pathSettings = './settings/Grupo/Json';
 if (!fs.existsSync(pathSettings)) fs.mkdirSync(pathSettings, { recursive: true });
 
+
+//BOMBA juego
+
+let juegoBomba = {
+    activo: false,
+    timer: null,
+    targetJid: null,
+    groupId: null
+};
+
+const preguntasFuego = [
+    "¿Cuál es el planeta más cercano al Sol?",
+    "¿Cuántos continentes existen en la Tierra?",
+    "¿Quién pintó la 'Mona Lisa'?",
+    "¿Cuál es el país más grande del mundo por territorio?",
+    "¿En qué continente se encuentra Egipto?",
+    "¿Cuál es el río más largo del mundo?",
+    "¿Cuál es el animal terrestre más veloz?",
+    "¿Qué gas respiramos para sobrevivir?",
+    "¿Cómo se llama el proceso de las plantas para obtener energía?",
+    "¿Cuál es la moneda oficial de Japón?",
+    "¿Cuántos huesos tiene un cuerpo humano adulto?",
+    "¿En qué país se encuentra la Torre Eiffel?",
+    "¿Cuál es el metal que es líquido a temperatura ambiente?",
+    "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "¿Cuál es el idioma más hablado del mundo?",
+    "¿Qué selección ganó el mundial de fútbol Qatar 2022?",
+    "¿Cómo se llama el triángulo que tiene sus tres lados iguales?",
+    "¿Cuál es el elemento químico representado por el símbolo 'Au'?",
+    "¿En qué año comenzó la Segunda Guerra Mundial?",
+    "¿Cuál es el edificio más alto del mundo actualmente?",
+    "¿Qué órgano del cuerpo humano bombea la sangre?",
+    "¿Cómo se llama el satélite natural de la Tierra?",
+    "¿Cuál es la capital de Italia?",
+    "¿En qué ciudad estadounidense está la Estatua de la Libertad?",
+    "¿Cuál es el mamífero más grande del océano?",
+    "¿Cuántos minutos tiene una hora?",
+    "¿Qué color resulta de mezclar azul y amarillo?",
+    "¿Quién fue el primer presidente de los Estados Unidos?",
+    "¿Cómo se llama la fuerza que atrae los objetos hacia la Tierra?",
+    "¿En qué país se originaron los Juegos Olímpicos antiguos?"
+];
 
 // Welcome
 const welkomPath = `${pathSettings}/welkom.json`;
@@ -945,6 +987,69 @@ case 'papagarbot': {
 
 // ----------------------------------
 
+// ... dentro del switch(comando) ...
+
+case 'bomba': {
+    if (!isGroup) return enviar("Este juego solo funciona en grupos.");
+    
+    // 1. Cancelar el cronómetro anterior para evitar que exploten varias bombas a la vez
+    if (juegoBomba.timer) clearTimeout(juegoBomba.timer);
+
+    try {
+        // 2. Determinar el próximo objetivo (por etiqueta o azar)
+        let mencionado = info.message?.extendedTextMessage?.contextInfo?.mentionedJid?.[0];
+        let proximoTarget;
+        let preguntaFinal;
+
+        if (mencionado) {
+            proximoTarget = mencionado;
+            // Limpiamos la etiqueta del texto para extraer solo la pregunta
+            preguntaFinal = q ? q.replace(/@\d+/g, '').trim() : null;
+        } 
+
+        // Si no hay etiqueta, elegimos a alguien al azar del grupo
+        if (!proximoTarget) {
+            const randomParticipant = groupMembers[Math.floor(Math.random() * groupMembers.length)];
+            proximoTarget = randomParticipant.id;
+        }
+
+        // Si no hay pregunta escrita, elegimos una de la lista
+        if (!preguntaFinal || preguntaFinal === "") {
+            preguntaFinal = preguntasFuego[Math.floor(Math.random() * preguntasFuego.length)];
+        }
+
+        // 3. Actualizar el estado global del juego
+        juegoBomba.activo = true;
+        juegoBomba.groupId = from;
+        juegoBomba.targetJid = proximoTarget;
+
+        // 4. Enviar mensaje con el aviso de 45 segundos
+        await sock.sendMessage(from, {
+            text: `💣 *¡BOMBA ENVIADA!* 💣\n\n@${juegoBomba.targetJid.split('@')[0]}, tienes ⏳ *45 SEGUNDOS* para responder.\n\n*Pregunta:* ${preguntaFinal}\n\nResponde así:\n(Respuesta) .bomba @etiqueta (Tu Pregunta)`,
+            mentions: [juegoBomba.targetJid]
+        }, { quoted: info });
+
+        // 5. Temporizador configurado a 45000 ms (45 segundos)
+        juegoBomba.timer = setTimeout(async () => {
+            if (juegoBomba.activo && juegoBomba.groupId === from && juegoBomba.targetJid === proximoTarget) {
+                await sock.sendMessage(from, { 
+                    text: `💥 *¡BOOOOOM!* @${proximoTarget.split('@')[0]} ¡La bomba explotó! Fuiste demasiado lent@, tenías 45 segundos. 💀`,
+                    mentions: [proximoTarget]
+                });
+                juegoBomba.activo = false;
+                juegoBomba.timer = null;
+                juegoBomba.targetJid = null;
+            }
+        }, 45000); 
+
+    } catch (e) {
+        console.error("Error en comando bomba:", e);
+    }
+    break;
+} 
+
+//-----------------------------------
+
 case 'toimg':
   if(!isReg) return enviar(respuesta.registro)
 if(!isQuotedSticker) return enviar('[❗]• 𝗠𝗔𝗥𝗤𝗨𝗘 𝗨𝗡 𝗦𝗧𝗜𝗖𝗞𝗘𝗥 •')
@@ -1446,11 +1551,14 @@ break;
 
 
 
-
-
-
-
-
+// Esto detecta si el mensaje contiene ".bomba" y viene del objetivo actual
+if (juegoBomba.activo && from === juegoBomba.groupId) {
+    if (sender === juegoBomba.targetJid && (budy || "").toLowerCase().includes('.bomba')) {
+        console.log("Bomba pasada por: " + sender);
+        // No hace falta hacer nada aquí, porque al incluir ".bomba", 
+        // el 'switch(comando)' de arriba se activará solo y reiniciará el juego.
+    }
+}
 // COMANDOS SIN PREFIJO
 default:
 
