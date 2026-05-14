@@ -32,7 +32,7 @@ const chalk = require('chalk')
 const color = (text, color) => { return !color ? chalk.green(text) : chalk.keyword(color)(text) };
 
  //baner
-const banner = cfonts.render("Naufra| Bot| Base", {
+const banner = cfonts.render("Parchita| Bot|", {
   font: 'pallet',
   align: 'center',
   gradient: ["green","blue"]
